@@ -19,6 +19,7 @@ https://www.geeksforgeeks.org/python-opencv-cv2-cvtcolor-method/
 
 
 Eric Carmelo Cabrera Cruz, María del Mar Artigas Rodríguez
+
 Universidad de Las Palmas de Gran Canaria  
 Escuela de Ingeniería en Informática  
 Grado de Ingeniería Informática  
